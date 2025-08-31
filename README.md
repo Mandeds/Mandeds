@@ -1,4 +1,4 @@
-<div align="center">
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/26efb5eb-4c53-4ac2-9162-3a8d98011792" /><div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=soft&color=3A5D57&height=180&section=header&text=Amanda%20Souza&fontSize=70&fontColor=EA8FA0&fontAlignY=35&animation=scaleIn)
 
@@ -14,56 +14,9 @@
 
 <div align="center">
 
-## 🐍 Minha Cobrinha dos Commits
-
-![Cobrinha personalizada](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Versão customizada com suas cores -->
-![Snake animation](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
-name: Generate Custom Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate custom snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Mandeds
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FF69B4&color_dots=#FFD700,#FFB6C1,#FF69B4,#FFB6C1,#FFD700
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FF69B4&color_dots=#FFD700,#FFB6C1,#FF69B4&palette=github-dark
-
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          keep_files: true
-
-          <div align="center">
 
 ## 💻 Meu Progresso Diário
 
-![Cobrinha personalizada](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake.svg)
-
-**✨ Versão especial nas suas cores:**
-![Cobrinha rosa e dourada](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Cobrinha rosa e dourada](https://github.com/Mandeds/Mandeds/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
@@ -132,6 +85,8 @@ jobs:
   <details>
   <summary>✨ <b>Clique aqui para uma surpresa animada!</b></summary>
   <br>
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/02bf321a-d3d6-4e34-8c63-7f3783e9a8ab" />
+
   
   ```javascript
   // 🌟 Meu perfil em código animado!
@@ -147,4 +102,5 @@ jobs:
   // 🎯 Executando a mensagem especial
   console.log(amanda.mensagem());
   console.log("💌 Me encontre nos links acima!");
+
 
