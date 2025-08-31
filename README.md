@@ -1,5 +1,3 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/26efb5eb-4c53-4ac2-9162-3a8d98011792" /><div align="center">
-  
   ![Header](https://capsule-render.vercel.app/api?type=soft&color=3A5D57&height=180&section=header&text=Amanda%20Souza&fontSize=70&fontColor=EA8FA0&fontAlignY=35&animation=scaleIn)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=22&pause=1000&color=3A5D57&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack;Tecnologia+é+minha+paixão;Bem-vindo(a)+ao+meu+universo!💻" alt="Typing SVG" />
