@@ -75,19 +75,21 @@
   ## 🎮 Interaja comigo!
   
   <details>
-  <summary>✨ <b>Clique aqui para uma surpresa!</b></summary>
+  <summary>✨ <b>Clique aqui para uma surpresa animada!</b></summary>
   <br>
   
   ```javascript
-  // 📦 Meu perfil em código!
+  // 🌟 Meu perfil em código animado!
   const amanda = {
     nome: "Amanda Souza",
-    área: "Desenvolvimento Full Stack",
-    habilidades: ["JavaScript", "React", "Node.js", "Python"],
-    paixões: ["Código limpo", "UI/UX", "Inovação", "Café ☕"],
-    meta: "Criar tecnologia que transforma vidas",
-    mensagem: "Vamos construir algo incrível juntos? 💫"
+    nível: "✨ Desenvolvedora Full Stack",
+    habilidades: ["JavaScript", "React", "Node.js", "Python", "CSS"],
+    paixões: ["Código limpo", "UI/UX", "Inovação", "Café ☕", "Animação"],
+    missão: "Criar tecnologia que transforma vidas 💫",
+    mensagem: () => "Vamos construir algo incrível juntos? 🚀"
   };
   
-  console.log(amanda.mensagem);
-  // 💡 Dica: Me chame no Discord para conversarmos!
+  // 🎯 Executando a mensagem especial
+  console.log(amanda.mensagem());
+  console.log("💌 Me encontre nos links acima!");
+
