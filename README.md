@@ -85,6 +85,7 @@
   <br>
 
   
-  ```javascript const amanda = {nome: "Amanda Souza",nível: "✨ Desenvolvedora Full Stack",habilidades: ["JavaScript", "React", "Node.js", "Python", "CSS"],paixões: ["Código limpo", "UI/UX", "Inovação", "Café ☕", "Animação"],missão: "Criar tecnologia que transforma vidas 💫",mensagem: () => "Vamos construir algo incrível juntos? 🚀};console.log(amanda.mensagem());console.log("💌 Me encontre nos links acima!");
+  ```javascript
+const amanda = {nome: "Amanda Souza",nível: "✨ Desenvolvedora Full Stack",habilidades: ["JavaScript", "React", "Node.js", "Python", "CSS"],paixões: ["Código limpo", "UI/UX", "Inovação", "Café ☕", "Animação"],missão: "Criar tecnologia que transforma vidas 💫",mensagem: () => "Vamos construir algo incrível juntos? 🚀};console.log(amanda.mensagem());console.log("💌 Me encontre nos links acima!");
 
 
