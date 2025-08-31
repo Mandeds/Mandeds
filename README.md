@@ -85,7 +85,6 @@
   <details>
   <summary>✨ <b>Clique aqui para uma surpresa animada!</b></summary>
   <br>
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/02bf321a-d3d6-4e34-8c63-7f3783e9a8ab" />
 
   
   ```javascript
