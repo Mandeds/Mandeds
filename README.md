@@ -15,6 +15,10 @@
 
 ## 💻 Meu Progresso Diário
 
+<span style="color:#FFD54A">✨ Interatividade</span>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 </div>
 
